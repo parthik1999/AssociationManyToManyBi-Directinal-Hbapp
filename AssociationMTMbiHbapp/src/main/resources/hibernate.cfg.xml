@@ -27,5 +27,10 @@
 		<mapping class="com.parthik.beans.Employee"/>
 		<mapping class="com.parthik.beans.Department"/>
     </session-factory>
+    
+    
+  
+  
+  
 
 </hibernate-configuration>
